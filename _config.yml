@@ -37,7 +37,11 @@ header_pages:
 
 # Build settings
 # theme: jekyll-theme-midnight
-remote_theme: pages-themes/midnight@v0.2.0
+theme: minima
+#remote_theme: pages-themes/midnight@v0.2.0
+minima:
+  skin: dark
+  
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
@@ -62,4 +66,3 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-minimal
