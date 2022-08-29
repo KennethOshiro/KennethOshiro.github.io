@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ubuntu 22.04, Jammy Jellyfish: SNAP My Life Into Pieces"
-date:   2022-08-21 17:04:26 -0800
+date:   2022-08-28 17:04:26 -0800
 categories: personal
 ---
 I've recently started using Ubuntu GNU/Linux again, since I got tired of having to use Windows 10 for everything.
@@ -10,7 +10,7 @@ It's admittedly a touch slower than Windows, since I'm running off a regular ext
  
 I’ve admittedly been quite the Linux/libre open source fanboy for quite some time now. I honestly don’t think anything will ever convince me that proprietary software is in any way more desirable, better, or more ethical than free and open source software. Rather, I don’t want to be convinced nor do I want to even entertain that notion. If a stranger baked a cake for you, wouldn't you want to know what he put in it? Exactly. Even if I hadn’t the slightest clue about baking or cooking, I would very much like to know if someone put cow dung into my stew. 
  
-Maybe this is a flawed argument. But by their works, you shall know them. That’s all I’ll say about this for now. 
+Maybe this is a flawed argument. But by their deeds, you shall know them. That’s all I’ll say about this for now. 
  
 Anyway, I’m quite liking Ubuntu so far despite its sluggish performance on a regular HDD. I did run into one annoying problem where my whole system would freeze up when trying to run the Firefox web browser. I’ve always had some problem or another with Firefox on Linux, but this is by far the most egregious. I’m quite sure Firefox is the culprit here, because I had the exact same issue three times, all when running the browser. Then I remembered that this latest release of Ubuntu packaged Firefox as a snap package. 
  
